@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Saurabh Verma ( @svworld01 )
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning GCP and Spring Security
-- 💞️ I’m looking to collaborate on software developement
+- 👋 Hi, I’m Saurabh Verma.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning GCP and Spring Security.
+- 💞️ I’m looking to collaborate on software developement.
 - 📫 Contact me at svworld01@gmail.com
 
 <!---
