@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh Verma.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning GCP and Spring Security.
+- 🌱 I’m currently learning Microservices and DevOps.
 - 💞️ I’m looking to collaborate on software developement.
 - 📫 Contact me at svworld01@gmail.com
 
